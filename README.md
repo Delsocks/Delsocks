@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Egravouil
 - 👀 I’m interested in cinema,coding
-- 🌱 I’m currently learning to code
+- 🌱 I’m currently learning jsp
 - 💞️ I’m looking to collaborate on national socialism
 - 📫 How to reach me: don't
 
