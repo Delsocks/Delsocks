@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Egravouil
+- 👋 Hi, I’m Delsocks
 - 👀 I’m interested in cinema,coding
 - 🌱 I’m currently learning jsp
 - 💞️ I’m looking to collaborate on national socialism
